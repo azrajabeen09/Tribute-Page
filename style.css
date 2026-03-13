@@ -6,7 +6,7 @@ font-family:Arial, Helvetica, sans-serif;
 }
 
 body{
-background:#f5f5f5;
+background:#fce7c7;
 line-height:1.6;
 }
 
@@ -45,7 +45,7 @@ flex-wrap:wrap;
 align-items:center;
 justify-content:center;
 padding:40px;
-background:white;
+background:#fdecd2;
 
 }
 
@@ -62,7 +62,7 @@ max-width:600px;
 
 section{
 padding:60px 10%;
-background:white;
+background:#fdecd2;
 margin-top:10px;
 }
 
@@ -88,11 +88,11 @@ gap:20px;
 }
 
 .card{
-background:#fafafa;
+background:#f9e6c9;
 padding:20px;
 border-radius:10px;
 box-shadow:0 0 10px rgba(0,0,0,0.1);
-transition:0.2s;
+transition:0.1s;
 
 }
 .achievements div:hover{
@@ -140,6 +140,13 @@ text-align:center;
 padding:20px;
 margin-top:20px;
 }
+footer a{
+    text-decoration: none;
+    color: orange;
+}
+footer a:hover{
+color:#c57805;
+}
 
 button{
 background:#ff9800;
@@ -154,3 +161,4 @@ border-radius: 5px;
 button:hover{
 background:#e68900;
 }
+
