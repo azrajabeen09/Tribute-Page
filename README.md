@@ -2,6 +2,6 @@ This project is a tribute website dedicated to Sania Mirza, one of the India's m
 The goal of this project is to practice front-end web development by  building a visually appealing and informative tribute page using core web technologies.
 
 Technologies Used:
-HTML
-CSS 
+HTML,
+CSS, 
 JavaScript
